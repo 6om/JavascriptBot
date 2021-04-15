@@ -1,2 +1,2 @@
-# OpenSourcePY
-This is a open source Discord Bot built in PY \\ python!
+# Open Source JavaScript Bot
+``->`` In developement
